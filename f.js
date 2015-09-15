@@ -1,6 +1,6 @@
-var ip="84.199.86.195";
+var ip="178.173.43.98";
 
-var port='24459';
+var port='19297';
 
 var pref = Components.classes["@mozilla.org/preferences-service;1"].getService(Components.interfaces.nsIPrefService);
 
